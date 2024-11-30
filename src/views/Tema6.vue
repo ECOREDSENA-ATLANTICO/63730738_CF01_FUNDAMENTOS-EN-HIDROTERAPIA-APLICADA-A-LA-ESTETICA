@@ -13,11 +13,11 @@
       .col-lg-4.col-md-8.align-content-center
         img.my-3(src='@/assets/curso/temas/tema6/img1.png', alt='Imagen decorativa') 
     
-    h5.blue_icon.my-2(data-aos="fade-left") Efectos fisiológicos del agua como método termoterápico
+    h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos del agua como método<br>termoterápico
 
     p.my-3 Dependen de las variaciones de la temperatura del agua, sin embargo, para que en realidad se den, el agua debe estar lejos de la temperatura neutra o indiferente es decir a 25-26 ºC en el aire y 31-33 ºC en el agua.
     
-    h5.blue_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes del aumento de temperatura
+    h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes del aumento de<br>temperatura
 
     p.my-3 Dependen de las variaciones de la temperatura del agua, sin embargo, para que en realidad se den, el agua debe estar lejos de la temperatura neutra o indiferente es decir a 25-26 ºC en el aire y 31-33 ºC en el agua.
 
@@ -57,7 +57,7 @@
         figure
           img.my-3(src="@/assets/curso/temas/tema6/img2.svg")
           
-    h5.blue_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes de la disminución de la temperatura
+    h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes de la disminución de la<br>temperatura
 
     p.my-3 Dependen de las variaciones de la temperatura del agua, sin embargo, para que en realidad se den, el agua debe estar lejos de la temperatura neutra o indiferente es decir a 25-26 ºC en el aire y 31-33 ºC en el agua.
 
@@ -95,7 +95,7 @@
             h4.text-center Sistema nervioso
             p.text-center Produce relajación muscular, disminución de dolor y de sensibilidad en aplicaciones largas. (Villavicencio Vargas, 2000, p. 48-54)
 
-    h5.blue_icon.my-2(data-aos="fade-left") Reacciones generales del cuerpo humano ante los estímulos térmicos
+    h5.azul_icon.my-2(data-aos="fade-left") Reacciones generales del cuerpo humano ante los estímulos<br>térmicos
 
     p.my-3 La exposición del cuerpo a estímulos hidroterápicos a diferentes temperaturas no solo tiene efectos locales sino también sistémicos. Cuanto mayor es la diferencia de temperatura entre el agua y la piel, y mayor el tiempo de aplicación, más intensa será la reacción. Estos efectos generales serán aún más importantes cuanto mayor sea la superficie corporal sumergida.
     p.my-3 El uso de la hidroterapia como método termoterápico y crioterápico provoca importantes desplazamientos de volúmenes de sangre, que requieren un aparato cardiocirculatorio sano y en perfectas condiciones de adaptación.
@@ -109,7 +109,7 @@
           .col-lg-3.align-content-center
             img.my-3(src='@/assets/curso/temas/tema6/img4.svg', alt='Imagen decorativa')
 
-    h5.blue_icon.my-2(data-aos="fade-left") Las aplicaciones hidroterápicas frías generales
+    h5.azul_icon.my-2(data-aos="fade-left") Las aplicaciones hidroterápicas frías<br>generales
 
     p.my-3 Disminuyen la frecuencia cardiaca y alargan la duración de la diástole; aumenta el tono del músculo cardiaco y aumenta la presión arterial, como resultado de la vasoconstricción periférica. Producen disminución de la cantidad y la velocidad de sangre circulante, así como disminución del volumen sistólico y de la frecuencia cardiaca, con disminución del volumen minuto.
 
@@ -123,7 +123,7 @@
         p.mb-0 Las aplicaciones repentinas frías, especialmente en nuca y hombros, actúan por vía refleja produciendo una inspiración profunda. Los baños de agua fría de larga duración provocan una respiración rápida y superficial.<br>La exposición al frio provoca una descarga de adrenalina que modifica el metabolismo energético (liberación de ácidos grasos, glucogenólisis) y altera la distribución del flujo sanguíneo dirigiendo la sangre desde las partes superficiales hasta las partes profundas en los músculos. (Mourelle y Cols, 2009, p. 30-31).
       
     
-    h5.blue_icon.my-2(data-aos="fade-left") Efectos fisiológicos del agua como método mecanoterápico
+    h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos del agua como método<br>mecanoterápico
 
     .row.justify-content-center.my-3
       .col-lg-3.col-md-8.align-content-center
