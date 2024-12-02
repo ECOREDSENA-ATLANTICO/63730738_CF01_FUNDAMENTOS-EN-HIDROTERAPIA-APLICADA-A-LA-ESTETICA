@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.74" height="61.74" viewBox="0 0 61.74 61.74">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.356" y1="0.973" x2="1.356" y2="0.973" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6af6e0"/>
+      <stop offset="1" stop-color="#15312d"/>
+    </linearGradient>
+    <filter id="Elipse_12850" x="0" y="0" width="61.74" height="61.74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1107024" data-name="Grupo 1107024" transform="translate(11588.379 11761.379)">
+    <path id="Trazado_906881" data-name="Trazado 906881" d="M554.522-105.61a25.431,25.431,0,0,0,22.1,28.374,25.8,25.8,0,0,0,4.366.168A25.42,25.42,0,0,0,605-99.339a25.431,25.431,0,0,0-22.1-28.374A25.431,25.431,0,0,0,554.522-105.61Zm44.87,5.574a19.783,19.783,0,0,1-22.071,17.2,19.787,19.787,0,0,1-17.2-22.076A19.783,19.783,0,0,1,582.2-122.105,19.778,19.778,0,0,1,599.392-100.035Z" transform="translate(-12137.325 -11631.091)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, -11588.38, -11761.38)" filter="url(#Elipse_12850)">
+      <circle id="Elipse_12850-2" data-name="Elipse 12850" cx="21.87" cy="21.87" r="21.87" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Beauty_Hand_Cream" data-name="Beauty Hand Cream" transform="translate(-11626.566 -11747.464)">
+      <g id="Outline" transform="translate(58.634 0)">
+        <path id="Trazado_906864" data-name="Trazado 906864" d="M259.05,24.71a10.344,10.344,0,0,0,7.373,3.085h0a10.346,10.346,0,0,0,7.373-3.087,10.542,10.542,0,0,0,3.048-7.434,8.315,8.315,0,0,0-.452-2.5,19.628,19.628,0,0,0-1.134-2.7,53.971,53.971,0,0,0-5.122-7.944C268.524,1.985,267.226.468,267.084.3l0,0a.869.869,0,0,0-1.316,0l0,0c-.258.3-2.6,3.045-4.943,6.436a.869.869,0,0,0,1.43.987c1.238-1.792,2.488-3.409,3.318-4.451.29-.365.579-.72.856-1.056.938,1.138,2.766,3.425,4.506,5.992a40.481,40.481,0,0,1,2.938,4.964,10.308,10.308,0,0,1,1.242,4.1,8.781,8.781,0,0,1-2.547,6.214,8.62,8.62,0,0,1-12.278,0,8.778,8.778,0,0,1-2.547-6.214,9.617,9.617,0,0,1,1.051-3.7.869.869,0,0,0-.428-1.151.851.851,0,0,0-.362-.079.869.869,0,0,0-.789.507A11.023,11.023,0,0,0,256,17.274,10.542,10.542,0,0,0,259.05,24.71Z" transform="translate(-256 0.002)" fill="#163750"/>
+        <path id="Trazado_906865" data-name="Trazado 906865" d="M281.963,87.125a.869.869,0,1,0-.3-1.193h0A.87.87,0,0,0,281.963,87.125Z" transform="translate(-278.768 -76.226)" fill="#163750"/>
+        <path id="Trazado_906866" data-name="Trazado 906866" d="M376.868,157.915a.865.865,0,0,0,.5-.16,7.088,7.088,0,0,0,2.972-5.775.869.869,0,0,0-1.737,0,5.348,5.348,0,0,1-2.24,4.358.869.869,0,0,0,.5,1.577Z" transform="translate(-362.969 -134.703)" fill="#3286a4"/>
+        <ellipse id="Elipse_12849" data-name="Elipse 12849" cx="0.948" cy="0.711" rx="0.948" ry="0.711" transform="translate(9.388 22.756)" fill="#3286a4"/>
+      </g>
+    </g>
+  </g>
+</svg>
