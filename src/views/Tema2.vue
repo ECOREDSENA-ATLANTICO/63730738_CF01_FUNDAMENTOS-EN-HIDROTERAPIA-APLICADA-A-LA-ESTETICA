@@ -19,7 +19,7 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .cajon.color-acento-contenido.p-4(style="background: #EFFEFB")
+        .cajon.color-acento-contenido.p-4(style="background: #ECF9F9")
           p.mt-0.mb-0 El termalismo en países como España ha tenido una evolución favorable, debido a los diferentes estudios sobre el tema y la inclusión del mismo en la medicina tradicional a través de la OMS, lo que ha permitido que varios sectores turísticos y sociales se unan en torno al bienestar que genera su uso y a la implicación del sector en el desarrollo económico y social del país (Mourelle y cols, 2009).
 
         
@@ -36,7 +36,7 @@
     p.my-3 Se define como el uso preventivo y/o curativo de los elementos que componen el medio marino como: las algas, lodos marinos, arena, clima marino y la radiación solar.
 
     .row.justify-content-center.my-3
-      .col-lg-6.col-md-10.my-3.p-4(style="background: #99E7FF; border-radius: 35px; align-content: center")
+      .col-lg-6.col-md-10.my-3.p-4(style="background: #B5E6F7; border-radius: 35px; align-content: center")
         p La cantidad total de agua que hay en el planeta es 1.386.000.000 millones de metros cúbicos, de los cuales 1.338.000.000, casi el 96,5%, es agua salada que se encuentra en mares y océanos” (Abengoa, 2015, p.1).
         p.mb-0 El uso del agua de mar y sus componentes ha sido muy conocido desde la antigüedad en muchos aspectos de la vida del ser humano, en el área de la salud por ejemplo no solo es notable su efecto en la disminución del estrés común por las actividades del día a día, sino que se ha demostrado a lo largo de la historia que su uso es favorable para el tratamiento de patologías de los diferentes sistemas del cuerpo humano, como el acné y la psoriasis, debido a la concentración de minerales que posee, los cuales son absorbidos por el cuerpo a través de la  piel. 
       .col-lg-6.col-md-10.p-0.my-3(style="background: #163750; border-radius: 35px")

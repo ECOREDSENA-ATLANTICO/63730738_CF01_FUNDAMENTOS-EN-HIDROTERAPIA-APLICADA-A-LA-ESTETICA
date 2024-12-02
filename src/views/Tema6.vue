@@ -130,7 +130,7 @@
         img.my-3(src='@/assets/curso/temas/tema6/img6.png', alt='Imagen decorativa') 
       .col-lg-9
         p.my-3 En general la acción mecánica del agua produce en el cuerpo humano, un aumento en la circulación de retorno disminuyendo las alteraciones vasculares, mejora la elasticidad de la piel al estimular las terminaciones nerviosas y aumenta la diuresis de líquidos por la movilización de estos.
-        .cajon.color-acento-contenido.p-4(style="background: #EFFEFB")
+        .cajon.color-acento-contenido.p-4(style="background: #ECF9F9")
           p.mt-0.mb-0 Además de lo mencionado anteriormente, los efectos durante la inmersión gracias a la presión hidrostática permiten un mayor trabajo terapéutico, ya que el agua facilita el movimiento activo cuando el movimiento se realiza en dirección a la superficie del agua, lo cual genera fortalecimiento muscular, pero también pone resistencia cuando el movimiento se realiza en dirección contraria a la superficie, lo que es aprovechado para aumentar el trofismo de las fibras musculares sin afectar las articulaciones, debido a que el agua reduce la fuerza de compresión sobre estas.
         p.my-3 Se han comprobado también otros efectos posteriores a la inmersión en agua sobre todo en el área psicológica y emocional de las personas, por el efecto de relajación física y psíquica que ofrece este medio.
 </template>

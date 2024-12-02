@@ -17,7 +17,7 @@
     
     .row.justify-content-center.my-3
       .col-lg-10
-        .cajon.color-acento-contenido.p-4(style="background: #EFFEFB")
+        .cajon.color-acento-contenido.p-4(style="background: #ECF9F9")
           p.mt-0.mb-0 El turismo en salud, vinculado a la hidroterapia, combina tratamientos estéticos y terapéuticos en centros especializados. Esta práctica no solo promueve la belleza y el bienestar, sino que también mejora la salud física a través de técnicas acuáticas innovadoras.
 
 </template>

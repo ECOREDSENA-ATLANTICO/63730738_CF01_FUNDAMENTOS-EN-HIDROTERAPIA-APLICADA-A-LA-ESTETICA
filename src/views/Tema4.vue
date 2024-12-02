@@ -76,7 +76,7 @@
               tr
                 th.text-center(style="background: #B5E6F7; border: 1px solid black") Agua	
                 th.text-center(style="background: #48C1EC; border: 1px solid black") Administración tópica
-                th.text-center(style="background: #C3FBF3; border: 1px solid black") Administración oral
+                th.text-center(style="background: #BAECEC; border: 1px solid black") Administración oral
               tr 
                 th.text-center(style="background: white; border: 1px solid black") Clorurada
                 td(style="background: white; border: 1px solid black") Estimulantes del de las funciones orgánicas y metabólicas, mejora procesos de cicatrización.

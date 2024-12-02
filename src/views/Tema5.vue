@@ -42,12 +42,12 @@
     h5.blue_icon.my-2(data-aos="fade-left") Principios térmicos
     p.my-3 La temperatura normal del cuerpo humano es de 37°C, cuando esa cifra sufre variaciones en disminución o sus efectos sobre este aparecen casi de inmediato como mecanismo de defensa o compensación dentro del mismo. El agua tiene la propiedad de dar o quitar calor al organismo y es esto lo que precisamente se utiliza en los diferentes tratamientos como método crio o termo terapéutico.
 
-    .bloque-texto-g.p-3.p-sm-4.p-md-5.my-3(style="background: #DAFCF7")
+    .bloque-texto-g.p-3.p-sm-4.p-md-5.my-3(style="background: #DDF6F6")
       .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img3.png')})`}"
         )
 
-      .bloque-texto-g__texto.p-4(style="background: #DAFCF7")(data-aos="zoom-in")
+      .bloque-texto-g__texto.p-4(style="background: #DDF6F6")(data-aos="zoom-in")
         p.mb-0 La transferencia de energía térmica en el agua se realiza a través de un mecanismo llamado convección, en donde se cede calor a las partes más frías del cuerpo por disipación de este mediante radiación y evaporación, un ejemplo sencillo sería el siguiente: si un sujeto se sumerge en el agua y deja por fuera la parte superior de su cuerpo, esta recibirá calor evaporación del calor de la zona sumergida.
 
 </template>

@@ -14,7 +14,7 @@
       .col-lg-4.col-md-8
         img.my-3(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
-    .bloque-texto-g.p-3.p-sm-4.p-md-5(style="background: #49AB9B")
+    .bloque-texto-g.p-3.p-sm-4.p-md-5(style="background: #3A8F8F")
       .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img2.png')})`}"
         )
