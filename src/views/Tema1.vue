@@ -8,10 +8,10 @@
       h1 Historia, evolución y antecedentes de la hidroterapia
 
     .row.justify-content-center.my-3  
-      .col-lg-8.align-content-center
+      .col-lg-8.align-content-center.order-lg-1.order-md-2 
         p La hidroterapia forma parte de un grupo variado de técnicas cuyo uso es terapéutico, es decir que contribuye al mejoramiento de la salud de las personas, sin embargo, esta trata exclusivamente del uso del agua en sus diferentes formas y orígenes como es el caso del agua mineromedicinal, agua de mar y agua potable de las cuales se retomará más adelante.
-        p.my-3 De ahí la importancia de tener claro el concepto de la hidroterapia para el profesional de la estética, con el fin de añadir dicha técnica a sus protocolos y tratamientos o profundizar en su práctica si es el caso, teniendo en cuenta que algunas de sus técnicas las podrá implementar desde sus competencias y otras bajo la supervisión de un profesional del área de la salud.
-      .col-lg-4.col-md-8
+        p.my-3De ahí la importancia de tener claro el concepto de la hidroterapia para el profesional de la estética, con el fin de añadir dicha técnica a sus protocolos y tratamientos o profundizar en su práctica si es el caso, teniendo en cuenta que algunas de sus técnicas las podrá implementar desde sus competencias y otras bajo la supervisión de un profesional del área de la salud.
+      .col-lg-4.col-md-8.order-lg-2.order-md-1
         img.my-3(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
     .bloque-texto-g.p-3.p-sm-4.p-md-5(style="background: #3A8F8F")
@@ -61,9 +61,9 @@
                 img(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
     
     .row.justify-content-center.my-3  
-      .col-lg-4.col-md-8.align-content-center
+      .col-lg-4.col-md-8.align-content-center.order-lg-1.order-md-2 
         img.my-3(src='@/assets/curso/temas/tema1/img7.svg', alt='Imagen decorativa')     
-      .col-lg-8.align-content-center
+      .col-lg-8.align-content-center.order-lg-2.order-md-1
         p.my-3 El uso del agua para cada cultura, era muy importante no solo para la salud sino para el bienestar y el ocio, en Creta la clase noble, contaba con bañeras que funcionaban con tuberías verticales en piedra, en Grecia, los sacerdotes ya realizaban prácticas medicinales termales, en el antiguo Egipto, las casas contaban con baños de agua caliente y fría, en Roma, casi todas las ciudades contaban con establecimientos públicos en donde el uso del agua se convertía en una oportunidad social, cultural, comercial y preventivo-curativa por ejemplo después de alguna batalla. En la edad media prácticamente se deja de hablar de la hidroterapia, debido a que la iglesia consideraba como inmoral la asistencia a baños públicos, sin embargo, su uso se mantiene y renace en el siglo XIX, con una connotación más científica, incrementándose su prestigio a través de los estudios realizados por acreditadas universidades (Mourelle y Cols, 2009).
 
 </template>

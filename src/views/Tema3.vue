@@ -9,7 +9,7 @@
 
     .row.justify-content-center  
       .col-lg-4.col-md-8.align-content-center
-        img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')     
+        img.my-3(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')     
       .col-lg-8.align-content-center
         p.my-3 Se puede afirmar que el agua es el elemento que predomina no solo en el planeta tierra, sino en el cuerpo humano, ya que en éste el agua constituye aproximadamente el 70% de su peso, el metabolismo celular y en general las funciones del organismo humano se desarrollan con ayuda del agua basándose en sus propiedades físicas y químicas, las cuales han hecho que ésta sustancia esté catalogada como el disolvente universal, ya que prácticamente puede disolver cualquier tipo de sustancia (Derecho en red, 2014). 
 

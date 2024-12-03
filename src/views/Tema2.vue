@@ -76,7 +76,7 @@
     .row.justify-content-center.my-3
       .col-xl-10.col-lg-12.align-content-center
         .row.justify-content-center.my-3.fnd-2
-          SlyderF.custom(style="color:")(columnas="col-lg-6 col-md-6")
+          SlyderF.custom(columnas="col-lg-6 col-md-12")
             .row
               .col
                 img.mx-0(style="border-radius: 25px")(src='@/assets/curso/temas/tema2/img5.png', alt='Sauna')

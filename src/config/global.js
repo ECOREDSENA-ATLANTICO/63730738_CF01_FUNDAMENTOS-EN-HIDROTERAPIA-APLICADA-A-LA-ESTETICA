@@ -132,8 +132,7 @@ export default {
       referencia:
         'Chávez Diaz, M. A. (2018). Beneficios de la hidroterapia como parte de los servicios estéticos de un spa.',
       tipo: 'Página web',
-      link:
-        'https://biblioteca.galileo.edu/xmlui/bitstream/handle/123456789/677/2017-T-lacs-010-chavez_diaz_maria_andrea.pdf?sequence=1',
+      descarga: '/downloads/2017-T-lacs-010-chavez_diaz_maria_andrea.pdf',
     },
   ],
   glosario: [

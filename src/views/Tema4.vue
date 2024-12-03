@@ -43,21 +43,22 @@
             img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
           .col.px-0
             h3.mb-0 Según su temperatura
+        
         .row.justify-content-center.align-items-center.mb-3.p-4(data-aos="zoom-in")
-          .col-lg-2.col-md-5.my-3
+          .col-xl-2.col-lg-4.col-md-5.my-3
             figure
               img.my-3(src="@/assets/curso/temas/tema4/img5.png")
-          .col-lg-10
+          .col-xl-10.col-lg-8
             SlyderF.custom(columnas="col-lg-6 col-md-6")
               .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #F5F5F5; align-content: center")
                 h4.text-center Hipotermales
-                p.text-center Las aguas mesotermales son fundamentales en la hidroterapia, ya que ofrecen efectos terapéuticos, alivian el dolor muscular y facilitan la relajación gracias a su temperatura equilibrada, cuando la temperatura es menor a 35°C.
+                p.text-center.mb-0 Las aguas mesotermales son fundamentales en la hidroterapia, ya que ofrecen efectos terapéuticos, alivian el dolor muscular y facilitan la relajación gracias a su temperatura equilibrada, cuando la temperatura es menor a 35°C.
               .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #F5F5F5; align-content: center")
                 h4.text-center Mesotermales
-                p.text-center Son importantes en hidroterapia, ya que ofrecen aguas minerales cálidas ideales para tratamientos de relajación y bienestar. Cuando la temperatura oscila entre los 35 y los 37 °C. 
+                p.text-center.mb-0 Son importantes en hidroterapia, ya que ofrecen aguas minerales cálidas ideales para tratamientos de relajación y bienestar. Cuando la temperatura oscila entre los 35 y los 37 °C. 
               .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #F5F5F5; align-content: center")
                 h4.text-center Hipertermales
-                p.text-center Debido a sus propiedades beneficiosas, las aguas hipotermales son populares en balnearios y centros de bienestar, donde se emplean en tratamientos como baños termales, envolturas de barro y masajes, cuando la temperatura supera los 37°C.
+                p.text-center.mb-0 Debido a sus propiedades beneficiosas, las aguas hipotermales son populares en balnearios y centros de bienestar, donde se emplean en tratamientos como baños termales, envolturas de barro y masajes, cuando la temperatura supera los 37°C.
         .row.mt-3.mb-3.align-items-center(data-aos="fade-left")
           .col-auto
             img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
@@ -120,35 +121,35 @@
             p.my-3 El agua de mar se encuentra contenida en los océanos y mares del planeta, su importancia dentro de la hidroterapia se refleja en el uso terapéutico de sus aguas y de los elementos que componen el medio marino como: las algas, lodos, arena y clima marino, llamada talasoterapia.
             p.my-3 Este tipo de agua posee distintas características utilizables a nivel terapéutico, estas son:
             .row.justify-content-center
-              .col-xl-6.col-lg-12.crd--avatarHorizontal-left-bgr4.p-3.mb-3.m-auto
+              .col-xl-6.col-lg-12.col-md-6.crd--avatarHorizontal-left-bgr4.p-3.mb-3
                 .row.align-items-center.top
                   .col-auto(style="z-index:1")
                     figure
                       img(src="@/assets/curso/temas/tema4/img8.svg", alt="", width= "60px", height="60px")
                   .col(style="z-index:1")
                     p.mb-0.pe-3 <b>Factores organolépticos:</b> su color varía en cuanto a la profundidad, reflejo del color del cielo, flora y fauna marina; su sabor es salado debido a su composición química.
-              .col-xl-6.col-lg-12.crd--avatarHorizontal-left-bgr4.p-3.mb-3.m-auto
+              .col-xl-6.col-lg-12.col-md-6.crd--avatarHorizontal-left-bgr4.p-3.mb-3
                 .row.align-items-center.top
                   .col-auto(style="z-index:1")
                     figure
                       img(src="@/assets/curso/temas/tema4/img9.svg", alt="", width= "60px", height="60px")
                   .col(style="z-index:1")
                     p.mb-0.pe-3 <b>Composición química:</b> el 80% de su composición es cloruro de sodio, aunque prácticamente posee todos los elementos de la tabla periódica.
-              .col-xl-6.col-lg-12.crd--avatarHorizontal-left-bgr4.p-3.mb-3.m-auto
+              .col-xl-6.col-lg-12.col-md-6.crd--avatarHorizontal-left-bgr4.p-3.mb-3
                 .row.align-items-center.top
                   .col-auto(style="z-index:1")
                     figure
                       img(src="@/assets/curso/temas/tema4/img10.svg", alt="", width= "60px", height="60px")
                   .col(style="z-index:1")
                     p.mb-0.pe-3 <b>Temperatura:</b> depende de su ubicación 0°C en la zona polar, hasta 30°C aproximadamente en la zona tropical.
-              .col-xl-6.col-lg-12.crd--avatarHorizontal-left-bgr4.p-4.mb-3.m-auto
+              .col-xl-6.col-lg-12.col-md-6.crd--avatarHorizontal-left-bgr4.p-4.mb-3
                 .row.align-items-center.top
                   .col-auto(style="z-index:1")
                     figure
                       img(style="position: relative; right: 15%")(src="@/assets/curso/temas/tema4/img12.svg", alt="", width= "60px", height="60px")
                   .col(style="z-index:1")
                     p.mb-0.pe-3 <b>Densidad:</b> es ligeramente alcalino, tiene un pH que oscila entre 7,95 – 8,35 (Mourelle y Cols, 2009).
-              .col-xl-6.col-lg-12.crd--avatarHorizontal-left-bgr3.p-3.mb-3.m-auto
+              .col-xl-6.col-lg-12.col-md-6.crd--avatarHorizontal-left-bgr3.p-3.mb-3
                 .row.align-items-center.top
                   .col-auto(style="z-index:1")
                     figure
