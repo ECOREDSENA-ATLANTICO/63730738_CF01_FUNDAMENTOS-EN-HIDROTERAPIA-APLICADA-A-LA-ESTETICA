@@ -74,24 +74,26 @@
       p.my-3 Muchos investigadores del tema coinciden en que la helioterapia debe practicarse de forma directa sobre el cuerpo desnudo y sin elementos que se interpongan entre éste y el sol, como cristales, además debe ser progresiva y personalizada López, 2007.
   
       .row.justify-content-center.my-3
-        .col-xl-10.col-lg-12.align-content-center
+        .col-lg-10.align-content-center
           .row.justify-content-center.my-3.fnd-2
-            SlyderF.custom(columnas="col-lg-6 col-md-12")
-              .row
-                .col
-                  img(style="border-radius: 25px")(src='@/assets/curso/temas/tema2/img5.png', alt='Sauna')
-              .row
-                .col
-                  h5(style="background: #E6E9EC; border-radius: 20px; padding: 2em; height: 350px; align-content: center").text-center Peloidoterapia
-                    p.text-center Se define como la aplicación tópica general o local de fangos, lodos, ‘peloides’ o mezclas de agua mineromedicinal, agua de mar o de lago salado con un sólido de materia orgánica o inorgánica (Mourelle y Cols, 2009), “esta técnica milenaria se utilizó desde siempre de forma empírica y se pasó por tradición a cada generación” (Rodríguez, 2004).
-              .row
-                .col
-                  img.mx-0(style="border-radius: 25px")(src='@/assets/curso/temas/tema2/img9.png', alt='Sauna')
-              .row
-                .col
-                  h5(style="background: #E6E9EC; border-radius: 20px; padding: 2em; height: 350px; align-content: center").text-center Crenoterapia
-                    p.text-center Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego Krene que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
-          p.my-3 En la crenoterapia, el agua se clasifica según su composición química, su mineralización y su temperatura, temas que se desarrollarán en las siguientes unidades de aprendizaje.
+            .col-xl-5.col-lg-5.col-md-8.align-content-center.my-3
+              .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+                .indicador--hover(v-if="indicadorTarjetaFlip")
+                .tarjeta-flip__contenedor
+                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img5.png')})`}")
+                  .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
+                    h5.mb-3.text-dark.text-center Peloidoterapia
+                    p.text-dark.mb-0.text-center Se define como la aplicación tópica general o local de fangos, lodos, ‘peloides’ o mezclas de agua mineromedicinal, agua de mar o de lago salado con un sólido de materia orgánica o inorgánica (Mourelle y Cols, 2009), “esta técnica milenaria se utilizó desde siempre de forma empírica y se pasó por tradición a cada generación” (Rodríguez, 2004).
+            .col-xl-5.col-lg-5.col-md-8.align-content-center.my-3
+              .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+                .indicador--hover(v-if="indicadorTarjetaFlip")
+                .tarjeta-flip__contenedor
+                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.png')})`}")
+                  .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
+                    h5.text-dark.text-center Crenoterapia
+                    p.text-dark.mb-0.text-center Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego Krene que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
+      
+      p.my-3 En la crenoterapia, el agua se clasifica según su composición química, su mineralización y su temperatura, temas que se desarrollarán en las siguientes unidades de aprendizaje.
   
 
 </template>
