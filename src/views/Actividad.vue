@@ -32,7 +32,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Uso del agua con fines terapéuticos.',
+              texto: 'Uso de medicamentos.',
               esCorrecta: false,
             },
             { id: 'c', texto: 'Aplicación de calor.', esCorrecta: false },

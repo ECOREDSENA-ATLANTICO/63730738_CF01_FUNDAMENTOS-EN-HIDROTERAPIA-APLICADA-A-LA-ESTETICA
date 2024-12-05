@@ -10,7 +10,7 @@
     .row.justify-content-center.my-3  
       .col-lg-8.align-content-center.order-lg-1.order-md-2 
         p La hidroterapia forma parte de un grupo variado de técnicas cuyo uso es terapéutico, es decir que contribuye al mejoramiento de la salud de las personas, sin embargo, esta trata exclusivamente del uso del agua en sus diferentes formas y orígenes como es el caso del agua mineromedicinal, agua de mar y agua potable de las cuales se retomará más adelante.
-        p.my-3De ahí la importancia de tener claro el concepto de la hidroterapia para el profesional de la estética, con el fin de añadir dicha técnica a sus protocolos y tratamientos o profundizar en su práctica si es el caso, teniendo en cuenta que algunas de sus técnicas las podrá implementar desde sus competencias y otras bajo la supervisión de un profesional del área de la salud.
+        p.my-3 De ahí la importancia de tener claro el concepto de la hidroterapia para el profesional de la estética, con el fin de añadir dicha técnica a sus protocolos y tratamientos o profundizar en su práctica si es el caso, teniendo en cuenta que algunas de sus técnicas las podrá implementar desde sus competencias y otras bajo la supervisión de un profesional del área de la salud.
       .col-lg-4.col-md-8.order-lg-2.order-md-1
         img.my-3(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
@@ -31,7 +31,7 @@
           .row.px-3.pt-3
             .col-lg-6.mb-4.mb-md-0.align-content-center
               h4 Mitología
-                p.mt-4 <b>El agua y su relación con la mitología:</b><br>nuestros antepasados atribuían propiedades curativas a las diferentes fuentes de agua, generando una especie de culto alrededor de las mismas, se hablaba de ninfas, dioses o espíritus que curaban enfermedades o atribuían poderes a quienes se sumergían en ellas (Mourelle y cols 2009).
+                p.mt-4 <b>El agua y su relación con la mitología:</b><br>nuestros antepasados atribuían propiedades curativas a las diferentes fuentes de agua, generando una especie de culto alrededor de las mismas, se hablaba de ninfas, dioses o espíritus que curaban enfermedades o atribuían poderes a quienes se sumergían en ellas (Mourelle y Cols 2009).
             .col-lg-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
@@ -39,7 +39,7 @@
           .row.px-3.pt-3
             .col-lg-6.mb-4.mb-md-0.align-content-center
               h4 Religión
-                p.mt-4 <b>El agua y su relación con la religión:</b><br>en este aspecto se narran historias, desde las antiguas escrituras, en donde se escribió que “el espíritu de Dios se movía sobre las aguas” (Villavicencio, 2000, p.18) en el cristianismo se utiliza el agua en diferentes prácticas religiosas como el bautismo como principal ritual, también se encuentra evidencia de la relación agua- religión, en los diferentes hallazgos arqueológicos de los yacimientos de fuentes y manantiales (Mourelle y cols, 2009).
+                p.mt-4 <b>El agua y su relación con la religión:</b><br>en este aspecto se narran historias, desde las antiguas escrituras, en donde se escribió que “el espíritu de Dios se movía sobre las aguas” (Villavicencio, 2000, p.18) en el cristianismo se utiliza el agua en diferentes prácticas religiosas como el bautismo como principal ritual, también se encuentra evidencia de la relación agua- religión, en los diferentes hallazgos arqueológicos de los yacimientos de fuentes y manantiales (Mourelle y Cols, 2009).
             .col-lg-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')

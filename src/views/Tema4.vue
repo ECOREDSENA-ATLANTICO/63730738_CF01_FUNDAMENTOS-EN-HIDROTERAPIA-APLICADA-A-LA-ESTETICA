@@ -7,7 +7,7 @@
         span 4
       h1 Clasificación general del agua
 
-    p.my-3 El agua según su origen y composición química, se puede clasificar en tres grandes grupos: Agua común, agua mineromedicinal y agua de mar. Cada una de las anteriores se encuentra en lugares diferentes de la naturaleza y con una función particular. Para efectos de la hidroterapia, se describirán sus características específicas y su relación con las diferentes técnicas hidroterapéuticas.
+    p.my-3 El agua según su origen y composición química, se puede clasificar en tres grandes grupos: agua común, agua mineromedicinal y agua de mar. Cada una de las anteriores se encuentra en lugares diferentes de la naturaleza y con una función particular. Para efectos de la hidroterapia, se describirán sus características específicas y su relación con las diferentes técnicas hidroterapéuticas.
 
     h5.blue_icon.my-2(data-aos="fade-left") Agua común o natural
 
@@ -15,7 +15,7 @@
       .col-lg-5.col-md-8.align-content-center
         img.my-3(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')     
       .col-lg-7.align-content-center
-        p.my-3 El agua natural se puede subdividir en dos grandes grupos: El agua dulce y el agua salada, de esta última se hablará más adelante, específicamente sobre el agua de mar.
+        p.my-3 El agua natural se puede subdividir en dos grandes grupos: el agua dulce y el agua salada, de esta última se hablará más adelante, específicamente sobre el agua de mar.
         p.my-3 El agua natural se origina a nivel de la superficie terrestre en lagos, lagunas, pantanos, arroyos, ríos y sus afluentes, nevados y glaciares. Y en el subnivel de la tierra, en estado líquido o gaseoso que sube a la superficie de forma natural o por efecto de métodos artificiales, también pertenecen al agua natural las aguas meteóricas o atmosféricas, que provienen de lluvias de precipitación natural o artificial. Ley nº 1333 del medio ambiente (27 de abril de 1992) Publicada en la Gaceta Oficial de Bolivia, 1992, 15 de junio.
 
     .row.justify-content-center.my-3

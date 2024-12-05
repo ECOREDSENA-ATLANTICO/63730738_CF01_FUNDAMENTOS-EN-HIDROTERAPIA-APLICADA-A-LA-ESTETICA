@@ -40,37 +40,37 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Historia y evolución de la hidroterapia.',
+        titulo: 'Historia y evolución de la hidroterapia',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Terminología asociada a las técnicas de hidroterapia.',
+        titulo: 'Terminología asociada a las técnicas de hidroterapia',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Definición de agua.',
+        titulo: 'Definición de agua',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Clasificación general del agua.',
+        titulo: 'Clasificación general del agua',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Principios físicos de la hidroterapia.',
+        titulo: 'Principios físicos de la hidroterapia',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Efectos fisiológicos de la hidroterapia.',
+        titulo: 'Efectos fisiológicos de la hidroterapia',
         desarrolloContenidos: true,
       },
     ],
@@ -166,7 +166,7 @@ export default {
     {
       termino: 'Tópico',
       significado:
-        'dicho de un medicamento o de su modo de aplicación: De uso externo y local.',
+        'dicho de un medicamento o de su modo de aplicación: de uso externo y local.',
     },
     {
       termino: 'Vasodilatación',
@@ -200,7 +200,7 @@ export default {
       link: 'http://etimologias.dechile.net/?crenoterapia ',
     },
     {
-      referencia: 'Garcia Calleja, J. (2009. La guía. ',
+      referencia: 'Garcia Calleja, J. (2009). La guía. ',
       link:
         'http://biologia.laguia2000.com/bioquimica/composicion-quimica-del-agua',
     },
@@ -241,7 +241,7 @@ export default {
     },
     {
       referencia:
-        'Rocha, J. (2004). Orígenes Y Fundamentos De La Talasoterapia. Revista Biociencias. Separata, 2.',
+        'Rocha, J. (2004). Orígenes y fundamentos de la talasoterapia. Revista biociencias. Separata, 2.',
       link: 'https://revistas.uax.es/index.php/biociencia/article/view/632 ',
     },
     {
@@ -268,7 +268,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro para el desarrollo agroecológico Y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
