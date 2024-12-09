@@ -93,7 +93,7 @@
 
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background:#EBF8FC; align-content: center")
             h4.text-center Sistema nervioso
-            p.text-center.mb-0 Produce relajación muscular, disminución de dolor y de sensibilidad en aplicaciones largas. (Villavicencio Vargas, 2000, p. 48-54)
+            p.text-center.mb-0 Disminuye el dolor, es estimulante. Produce relajación muscular, disminución de dolor y de sensibilidad en aplicaciones largas. (Villavicencio Vargas, 2000, p. 48-54)
 
     h5.azul_icon.my-2(data-aos="fade-left") Reacciones generales del cuerpo humano ante los estímulos térmicos
 
@@ -105,7 +105,7 @@
         .row.tarjeta-azul-2.justify-content-center
           .col-lg-8.col-md-12.align-content-center
             p.mb-2 Las aplicaciones hidroterápicas calientes generales: producen un incremento inicial de la tensión arterial, seguida de una disminución, resultado de la vasodilatación periférica. Se producirá un incremento de la frecuencia cardiaca y una elevación del volumen por minuto. Tras la inmersión también se produce un leve incremento de la frecuencia respiratoria. Lo descrito anteriormente variará en intensidad en función de si el baño se hace parcial o completo.
-            p preciso extremar la vigilancia en la respuesta producida por la balneación en los pacientes con enfermedad cardiaca o vascular periférica y en pacientes con hipertensión e hipotensión.
+            p Es preciso extremar la vigilancia en la respuesta producida por la balneación en los pacientes con enfermedad cardiaca o vascular periférica y en pacientes con hipertensión e hipotensión.
           .col-lg-4.col-md-4.align-content-center
             img.my-3(src='@/assets/curso/temas/tema6/img4.svg', alt='Imagen decorativa')
 

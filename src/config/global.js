@@ -181,8 +181,7 @@ export default {
   referencias: [
     {
       referencia: 'Abengoa. (2015). Abengoa.',
-      link:
-        'http://www.laenergiadelcambio.com/como-esta-distribuida-el-agua-del-planeta ',
+      link: '',
     },
     {
       referencia: 'Bernal, L. (2016). Hidroterapia.',
@@ -196,7 +195,7 @@ export default {
     },
     {
       referencia:
-        'Diccionario etimológico. (2001). Etimología de Coronoterapia. ',
+        'Diccionario etimológico. (2001). Etimología de Crenoterapia. ',
       link: 'http://etimologias.dechile.net/?crenoterapia ',
     },
     {
@@ -261,7 +260,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Responsable del ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
@@ -276,7 +276,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Diana cristina muñoz urrea',
+          nombre: 'Diana Cristina Muñoz Urrea',
           cargo: 'Experta temática',
           centro: 'Centro agroindustrial - Regional Quindío.',
         },

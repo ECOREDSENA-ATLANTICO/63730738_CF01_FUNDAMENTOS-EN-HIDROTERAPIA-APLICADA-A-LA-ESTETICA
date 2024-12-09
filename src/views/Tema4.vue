@@ -35,6 +35,7 @@
         p.my-3 Este tipo de agua se caracteriza por su alto contenido en minerales y oligoelementos. Para la hidrología médica (área que se ocupa de las características y aplicación terapéutica de las aguas minero medicinales), esta agua se ha acreditado oficialmente como agente terapéutico y ha sido declarada de utilidad pública por las autoridades competentes. Dentro de las aguas mineromedicinales se encuentran las denominadas aguas termales, aquellas cuya temperatura supera en 4°C a la temperatura media anual del lugar de surgencia.
         p.my-3 El agua minero medicinal se ha clasificado a lo largo de la historia, según su origen, temperatura, tonicidad, mineralización, composición química, acciones fisiológicas, actividad terapéutica, entre otras. A continuación, se describirá brevemente, su clasificación más usada. (Mourelle, Faílde, Freire, Maraver, Carretero, 2009).
 
+    h5.blue_icon.my-2(data-aos="fade-left") Clasificación del agua mineromedicinal
     
     .row.justify-content-center.my-3
       .col-lg-10
