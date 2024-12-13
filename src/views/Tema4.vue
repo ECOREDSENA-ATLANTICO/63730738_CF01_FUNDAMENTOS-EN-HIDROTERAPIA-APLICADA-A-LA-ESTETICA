@@ -16,15 +16,15 @@
         img.my-3(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')     
       .col-lg-7.align-content-center
         p.my-3 El agua natural se puede subdividir en dos grandes grupos: el agua dulce y el agua salada, de esta última se hablará más adelante, específicamente sobre el agua de mar.
-        p.my-3 El agua natural se origina a nivel de la superficie terrestre en lagos, lagunas, pantanos, arroyos, ríos y sus afluentes, nevados y glaciares. Y en el subnivel de la tierra, en estado líquido o gaseoso que sube a la superficie de forma natural o por efecto de métodos artificiales, también pertenecen al agua natural las aguas meteóricas o atmosféricas, que provienen de lluvias de precipitación natural o artificial. Ley nº 1333 del medio ambiente (27 de abril de 1992) Publicada en la Gaceta Oficial de Bolivia, 1992, 15 de junio.
+        p.my-3 El agua natural se origina a nivel de la superficie terrestre en lagos, lagunas, pantanos, arroyos, ríos y sus afluentes, nevados y glaciares. Y en el subnivel de la tierra, en estado líquido o gaseoso que sube a la superficie de forma natural o por efecto de métodos artificiales, también pertenecen al agua natural las aguas meteóricas o atmosféricas, que provienen de lluvias de precipitación natural o artificial. Ley n.º 1333 del medio ambiente (27 de abril de 1992) Publicada en la Gaceta Oficial de Bolivia, 1992, 15 de junio.
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .row.tarjeta-azul
-          .col-lg-9.col-md-8.align-content-center
-            p.mb-0 “En España las instalaciones de los SPA, se diferencian de los balnearios y centros de talasoterapia, por la utilización de agua natural o potable en los diferentes tratamientos de hidroterapia, en Colombia, no existe aún una reglamentación que los diferencie”. (Ley nº 1333 del medio ambiente, 1992).
-          .col-lg-3
-            img.my-3(src='@/assets/curso/temas/tema4/img3.svg', alt='Imagen decorativa')  
+        .row.tarjeta-azul.justify-content-center
+          .col-lg-9.col-md-12.align-content-center
+            p.mb-0 “En España las instalaciones de los SPA, se diferencian de los balnearios y centros de talasoterapia, por la utilización de agua natural o potable en los diferentes tratamientos de hidroterapia, en Colombia, no existe aún una reglamentación que los diferencie”. (Ley n.º 1333 del medio ambiente, 1992).
+          .col-lg-3.col-md-3
+            img.my-3(src='@/assets/curso/temas/tema4/img3.svg', alt='Imagen decorativa')(style="width: 80%")
 
     h5.blue_icon.my-2(data-aos="fade-left") Agua mineromedicinal
 
@@ -32,8 +32,8 @@
       .col-lg-4.col-md-8.align-content-center
         img.my-3(src='@/assets/curso/temas/tema4/img4.png', alt='Imagen decorativa')     
       .col-lg-8.align-content-center
-        p.my-3 Este tipo de agua se caracteriza por su alto contenido en minerales y oligoelementos. Para la hidrología médica (área que se ocupa de las características y aplicación terapéutica de las aguas minero medicinales), esta agua se ha acreditado oficialmente como agente terapéutico y ha sido declarada de utilidad pública por las autoridades competentes. Dentro de las aguas mineromedicinales se encuentran las denominadas aguas termales, aquellas cuya temperatura supera en 4°C a la temperatura media anual del lugar de surgencia.
-        p.my-3 El agua minero medicinal se ha clasificado a lo largo de la historia, según su origen, temperatura, tonicidad, mineralización, composición química, acciones fisiológicas, actividad terapéutica, entre otras. A continuación, se describirá brevemente, su clasificación más usada. (Mourelle, Faílde, Freire, Maraver, Carretero, 2009).
+        p.my-3 Este tipo de agua se caracteriza por su alto contenido en minerales y oligoelementos. Para la hidrología médica (área que se ocupa de las características y aplicación terapéutica de las aguas mineromedicinales), esta agua se ha acreditado oficialmente como agente terapéutico y ha sido declarada de utilidad pública por las autoridades competentes. Dentro de las aguas mineromedicinales se encuentran las denominadas aguas termales, aquellas cuya temperatura supera en 4°C a la temperatura media anual del lugar de surgencia.
+        p.my-3 El agua mineromedicinal se ha clasificado a lo largo de la historia, según su origen, temperatura, tonicidad, mineralización, composición química, acciones fisiológicas, actividad terapéutica, entre otras. (Mourelle, Faílde, Freire, Maraver, Carretero, 2009). A continuación, se describirá brevemente, su clasificación más usada.
 
     h5.blue_icon.my-2(data-aos="fade-left") Clasificación del agua mineromedicinal
     

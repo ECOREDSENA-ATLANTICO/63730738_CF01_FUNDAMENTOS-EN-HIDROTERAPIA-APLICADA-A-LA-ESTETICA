@@ -13,9 +13,9 @@
         .col-lg-4.col-md-8.align-content-center
           img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')     
         .col-lg-8.align-content-center
-          p.my-3 El concepto de termalismo ha evolucionado a la par con el de hidroterapia, la palabra procede etimológicamente del griego <em>‘thermos’</em> que significa calor, es por esto por lo que está directamente relacionado con las aguas termales.
+          p.my-3 El concepto de termalismo ha evolucionado a la par con el de hidroterapia, la palabra procede etimológicamente del griego <em>thermos</em> que significa calor, es por esto por lo que está directamente relacionado con las aguas termales.
           p.my-3 El termalismo se puede definir como el conjunto de personal, instalaciones y medios al servicio de la utilización terapéutica de las aguas termales.
-          p.my-3 Dentro del termalismo en muy mencionada la palabra ‘termas’, del latín <em>thermae</em> o baños públicos, los cuales eran utilizados por los romanos como pioneros del termalismo social, con fines comerciales, higiénicos, lúdicos y por su puesto terapéuticos.
+          p.my-3 Dentro del termalismo es muy mencionada la palabra <em>termas</em>, del latín <em>thermae</em> o baños públicos, los cuales eran utilizados por los romanos como pioneros del termalismo social, con fines comerciales, higiénicos, lúdicos y por su puesto terapéuticos.
   
       .row.justify-content-center.my-3
         .col-lg-10
@@ -91,7 +91,7 @@
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
                     h5.text-dark.text-center Crenoterapia
-                    p.text-dark.mb-0.text-center Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego Krene que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
+                    p.text-dark.mb-0.text-center "Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego Krene que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
       
       p.my-3 En la crenoterapia, el agua se clasifica según su composición química, su mineralización y su temperatura, temas que se desarrollarán en las siguientes unidades de aprendizaje.
   

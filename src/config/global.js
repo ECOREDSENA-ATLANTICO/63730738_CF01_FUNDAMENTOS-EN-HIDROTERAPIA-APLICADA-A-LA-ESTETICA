@@ -268,7 +268,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -276,25 +276,28 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Diana Cristina Muñoz Urrea',
+          nombre: 'Diana Corredor Ruiz',
           cargo: 'Experta temática',
-          centro: 'Centro agroindustrial - Regional Quindío.',
+          centro:
+            'Centro de formación de talento humano en salud - Regional Distrito Capital',
         },
         {
-          nombre: 'Kennia Andrea Peña Barrera',
+          nombre: 'Zulma Yurany Vianchá Rodríguez',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Janet Lucia Villalba Triana',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -305,19 +308,19 @@ export default {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Diseñador <em>web</em>',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Rafael Bladimir Pérez Meriño',
           cargo: 'Desarrollador <em>fullstack</em>',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -325,28 +328,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },

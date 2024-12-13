@@ -13,7 +13,6 @@
 
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/WYWsYtaK4Bg?si=ixAPp5juP1BrntpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Nota: Sena (2024).
     
     .row.justify-content-center.my-3
       .col-lg-10

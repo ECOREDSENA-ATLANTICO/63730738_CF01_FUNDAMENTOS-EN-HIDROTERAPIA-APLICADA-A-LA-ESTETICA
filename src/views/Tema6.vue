@@ -19,8 +19,6 @@
     
     h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes del aumento de temperatura
 
-    p.my-3 Dependen de las variaciones de la temperatura del agua, sin embargo, para que en realidad se den, el agua debe estar lejos de la temperatura neutra o indiferente es decir a 25-26 ºC en el aire y 31-33 ºC en el agua.
-
     .row.justify-content-center.align-items-center.mb-3.p-4(data-aos="zoom-in")
       .col-lg-8
         SlyderF.custom(columnas="col-lg-6 col-md-6")
@@ -58,8 +56,6 @@
           img.my-3(src="@/assets/curso/temas/tema6/img2.svg")
           
     h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos resultantes de la disminución de la temperatura
-
-    p.my-3 Dependen de las variaciones de la temperatura del agua, sin embargo, para que en realidad se den, el agua debe estar lejos de la temperatura neutra o indiferente es decir a 25-26 ºC en el aire y 31-33 ºC en el agua.
 
     .row.justify-content-center.align-items-center.mb-3.p-4(data-aos="zoom-in")
       .col-lg-4.col-md-5.my-3
@@ -120,7 +116,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 Las aplicaciones repentinas frías, especialmente en nuca y hombros, actúan por vía refleja produciendo una inspiración profunda. Los baños de agua fría de larga duración provocan una respiración rápida y superficial. La exposición al frio provoca una descarga de adrenalina que modifica el metabolismo energético (liberación de ácidos grasos, glucogenólisis) y altera la distribución del flujo sanguíneo dirigiendo la sangre desde las partes superficiales hasta las partes profundas en los músculos. (Mourelle y Cols, 2009, p. 30-31).
+        p.mb-0 Las aplicaciones repentinas frías, especialmente en nuca y hombros, actúan por vía refleja produciendo una inspiración profunda. Los baños de agua fría de larga duración provocan una respiración rápida y superficial. La exposición al frío provoca una descarga de adrenalina que modifica el metabolismo energético (liberación de ácidos grasos, glucogenólisis) y altera la distribución del flujo sanguíneo dirigiendo la sangre desde las partes superficiales hasta las partes profundas en los músculos. (Mourelle y Cols, 2009, p. 30-31).
       
     
     h5.azul_icon.my-2(data-aos="fade-left") Efectos fisiológicos del agua como método mecanoterápico

@@ -46,12 +46,12 @@ export default {
           texto:
             '¿Cuál de las siguientes es una clasificación del agua utilizada en hidroterapia?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Agua fría.', esCorrecta: false },
-            { id: 'b', texto: 'Todas las anteriores.', esCorrecta: true },
-            { id: 'c', texto: 'Agua tibia.', esCorrecta: false },
-            { id: 'd', texto: 'Agua caliente.', esCorrecta: false },
+            { id: 'b', texto: 'Agua tibia.', esCorrecta: false },
+            { id: 'c', texto: 'Agua caliente.', esCorrecta: false },
+            { id: 'd', texto: 'Todas las anteriores.', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -105,7 +105,7 @@ export default {
         },
         {
           id: 6,
-          texto: '¿Qué se entiende por turismo de salud.',
+          texto: '¿Qué se entiende por turismo de salud?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
