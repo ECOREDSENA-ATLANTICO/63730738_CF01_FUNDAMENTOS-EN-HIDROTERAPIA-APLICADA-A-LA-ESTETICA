@@ -71,7 +71,7 @@
                 figure
                   img.mx-0(src="@/assets/curso/temas/tema2/img7.png", alt="imagen decorativa")
       p.my-3 En la práctica de la helioterapia se deben tener en cuenta diferentes aspectos como: las condiciones físicas del individuo, hora del día en la que se va a exponer el cuerpo a la radiación, tiempo de radiación, el mes y/o la estación del año, lugar de exposición: montaña, mar. La aplicación se hará en forma progresiva, de menos a más, teniendo en cuenta el fototipo cutáneo y el propósito de la exposición al sol.
-      p.my-3 Muchos investigadores del tema coinciden en que la helioterapia debe practicarse de forma directa sobre el cuerpo desnudo y sin elementos que se interpongan entre éste y el sol, como cristales, además debe ser progresiva y personalizada López, 2007.
+      p.my-3 Muchos investigadores del tema coinciden en que la helioterapia debe practicarse de forma directa sobre el cuerpo desnudo y sin elementos que se interpongan entre éste y el sol, como cristales, además debe ser progresiva y personalizada López. 2007.
   
       .row.justify-content-center.my-3
         .col-lg-10.align-content-center
@@ -91,7 +91,7 @@
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
                     h5.text-dark.text-center Crenoterapia
-                    p.text-dark.mb-0.text-center "Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego Krene que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
+                    p.text-dark.mb-0.text-center "Es un tratamiento médico con el uso de aguas mineromedicinales, la palabra proviene del griego <em>Krene</em> que significa pozo, manantial, fuente y de terapia que significa tratamiento médico” (Diccionario etimológico, 2001).
       
       p.my-3 En la crenoterapia, el agua se clasifica según su composición química, su mineralización y su temperatura, temas que se desarrollarán en las siguientes unidades de aprendizaje.
   

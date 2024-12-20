@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Efectos fisiológicos de la hidroterapia.',
       referencia:
-        'Chávez Diaz, M. A. (2018). Beneficios de la hidroterapia como parte de los servicios estéticos de un spa.',
+        'Chávez Diaz, M. A. (2018). Beneficios de la hidroterapia como parte de los servicios estéticos de un <em>spa</em>.',
       tipo: 'Página web',
       descarga: '/downloads/2017-T-lacs-010-chavez_diaz_maria_andrea.pdf',
     },
@@ -204,7 +204,8 @@ export default {
         'http://biologia.laguia2000.com/bioquimica/composicion-quimica-del-agua',
     },
     {
-      referencia: 'Súarez, H. (2016). Historia del Spa.',
+      referencia:
+        'Súarez, H. (2016). Historia, gastronomía, turismo y hotelería . La relajante historia del <em>Spa</em>.',
       link: 'https://www.youtube.com/watch?v=1K98xQ59tGo ',
     },
     {
@@ -282,14 +283,14 @@ export default {
             'Centro de formación de talento humano en salud - Regional Distrito Capital',
         },
         {
-          nombre: 'Zulma Yurany Vianchá Rodríguez',
+          nombre: 'Janet Lucia Villalba Triana',
           cargo: 'Asesora pedagógica',
           centro:
             'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
-          nombre: 'Janet Lucia Villalba Triana',
-          cargo: 'Asesora pedagógica',
+          nombre: 'Zulma Yurany Vianchá Rodríguez',
+          cargo: 'Líder línea de producción',
           centro:
             'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },

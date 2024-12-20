@@ -32,8 +32,7 @@
             
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #F5F5F5; align-content: center")
             h4.text-center Sistema circulatorio
-            p.text-center.mb-0 
-            Se Genera taquicardia, disminución de la presión arterial, vasodilatación superficial de capilares sanguíneos con aparición de hiperemia o enrojecimiento de la piel.
+            p.text-center.mb-0 Se genera taquicardia, disminución de la presión arterial, vasodilatación superficial de capilares sanguíneos con aparición de hiperemia o enrojecimiento de la piel.
 
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #F5F5F5; align-content: center")
             h4.text-center Sistema digestivo
